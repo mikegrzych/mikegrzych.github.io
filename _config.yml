@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Mike Grzych
 tagline:          Musings
 url:              http://mikegrzych.github.io
-paginate:         1
+paginate:         3
 baseurl:          /
 author:
   name:           Michael Grzych
