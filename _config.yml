@@ -19,7 +19,7 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/mikegrzych
+  repo:           https://github.com/mikegrzych/mikegrzych.github.io
 pages_list:
   About:          '/about'
   Archive:        '/archive'
