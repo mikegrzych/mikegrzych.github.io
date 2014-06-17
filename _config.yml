@@ -6,17 +6,21 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Mike Grzych
+tagline:          Musings
+url:              http://mikegrzych.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Michael Grzych
+  url:            https://twitter.com/grizzytron
+  email:          mike.grzych@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/mikegrzych
+pages_list:
+  About:          '/about'
+  Archive:        '/archive'
+  Feed:           '/atom.xml'
