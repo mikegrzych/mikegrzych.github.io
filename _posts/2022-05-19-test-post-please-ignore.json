@@ -1,0 +1,18 @@
+---
+layout: post
+
+title: &title Test Post Please Ignore
+tags: &tags
+  - Angular
+  - Jekyll
+  - Test
+content: &content |
+  Hello, **world**!
+
+  I am here
+
+data:
+  title: *title
+  tags: *tags
+  content: *content
+---
